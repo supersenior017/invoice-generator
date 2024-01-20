@@ -1,0 +1,14 @@
+{
+  "name": "modefyPdf",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node modifyPdf.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.7.0",
+    "pdf-lib": "^1.17.1"
+  }
+}
